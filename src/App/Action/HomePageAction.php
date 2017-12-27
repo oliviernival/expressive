@@ -15,6 +15,7 @@ use Zend\Expressive\ZendView\ZendViewRenderer;
 
 class HomePageAction implements ServerMiddlewareInterface
 {
+    /* edit en direct */
     private $router;
 
     private $template;
